@@ -71,6 +71,20 @@ Full details available in my CV.
 
 ---
 
+## 🎮 Hobbies and Interests
+
+- 🐱 **Cats**  
+  I adore cats. They appear frequently in my drawings, ideas, and side projects.
+
+- 🎨 **Digital and 3D art**  
+  Illustration and concept art using Clip Studio Paint.  
+  3D modeling and scene work in Blender.
+
+- 🕹️ **Video games**  
+  Playing, analyzing systems, and building game-related projects.
+
+---
+
 ## 🤝 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/valentina-liberona  
